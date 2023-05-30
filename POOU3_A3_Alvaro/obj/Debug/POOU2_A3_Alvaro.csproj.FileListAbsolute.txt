@@ -1,0 +1,32 @@
+C:\Users\lab2_equipo6\source\repos\POOU2_A3_Alvaro\bin\Debug\POOU2_A3_Alvaro.exe.config
+C:\Users\lab2_equipo6\source\repos\POOU2_A3_Alvaro\bin\Debug\POOU2_A3_Alvaro.exe
+C:\Users\lab2_equipo6\source\repos\POOU2_A3_Alvaro\bin\Debug\POOU2_A3_Alvaro.pdb
+C:\Users\lab2_equipo6\source\repos\POOU2_A3_Alvaro\obj\Debug\POOU2_A3_Alvaro.csproj.AssemblyReference.cache
+C:\Users\lab2_equipo6\source\repos\POOU2_A3_Alvaro\obj\Debug\POOU2_A3_Alvaro.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab2_equipo6\source\repos\POOU2_A3_Alvaro\obj\Debug\POOU2_A3_Alvaro.csproj.CoreCompileInputs.cache
+C:\Users\lab2_equipo6\source\repos\POOU2_A3_Alvaro\obj\Debug\POOU2_A3_Alvaro.exe
+C:\Users\lab2_equipo6\source\repos\POOU2_A3_Alvaro\obj\Debug\POOU2_A3_Alvaro.pdb
+C:\Users\LENOVO\OneDrive\Documentos\Unidad2_ActividadPOOU2_A3_INT_POO_Alvaro_Sanchez\Solucion\POOU2_A3_Alvaro\bin\Debug\POOU2_A3_Alvaro.exe.config
+C:\Users\LENOVO\OneDrive\Documentos\Unidad2_ActividadPOOU2_A3_INT_POO_Alvaro_Sanchez\Solucion\POOU2_A3_Alvaro\bin\Debug\POOU2_A3_Alvaro.exe
+C:\Users\LENOVO\OneDrive\Documentos\Unidad2_ActividadPOOU2_A3_INT_POO_Alvaro_Sanchez\Solucion\POOU2_A3_Alvaro\bin\Debug\POOU2_A3_Alvaro.pdb
+C:\Users\LENOVO\OneDrive\Documentos\Unidad2_ActividadPOOU2_A3_INT_POO_Alvaro_Sanchez\Solucion\POOU2_A3_Alvaro\obj\Debug\POOU2_A3_Alvaro.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Documentos\Unidad2_ActividadPOOU2_A3_INT_POO_Alvaro_Sanchez\Solucion\POOU2_A3_Alvaro\obj\Debug\POOU2_A3_Alvaro.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\OneDrive\Documentos\Unidad2_ActividadPOOU2_A3_INT_POO_Alvaro_Sanchez\Solucion\POOU2_A3_Alvaro\obj\Debug\POOU2_A3_Alvaro.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\Unidad2_ActividadPOOU2_A3_INT_POO_Alvaro_Sanchez\Solucion\POOU2_A3_Alvaro\obj\Debug\POOU2_A3_Alvaro.exe
+C:\Users\LENOVO\OneDrive\Documentos\Unidad2_ActividadPOOU2_A3_INT_POO_Alvaro_Sanchez\Solucion\POOU2_A3_Alvaro\obj\Debug\POOU2_A3_Alvaro.pdb
+C:\Users\LENOVO\OneDrive\Escritorio\Nueva carpeta\Solución\POOU3_A3_Alvaro\bin\Debug\POOU2_A3_Alvaro.exe.config
+C:\Users\LENOVO\OneDrive\Escritorio\Nueva carpeta\Solución\POOU3_A3_Alvaro\bin\Debug\POOU2_A3_Alvaro.exe
+C:\Users\LENOVO\OneDrive\Escritorio\Nueva carpeta\Solución\POOU3_A3_Alvaro\bin\Debug\POOU2_A3_Alvaro.pdb
+C:\Users\LENOVO\OneDrive\Escritorio\Nueva carpeta\Solución\POOU3_A3_Alvaro\obj\Debug\POOU2_A3_Alvaro.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Escritorio\Nueva carpeta\Solución\POOU3_A3_Alvaro\obj\Debug\POOU2_A3_Alvaro.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\OneDrive\Escritorio\Nueva carpeta\Solución\POOU3_A3_Alvaro\obj\Debug\POOU2_A3_Alvaro.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Escritorio\Nueva carpeta\Solución\POOU3_A3_Alvaro\obj\Debug\POOU2_A3_Alvaro.exe
+C:\Users\LENOVO\OneDrive\Escritorio\Nueva carpeta\Solución\POOU3_A3_Alvaro\obj\Debug\POOU2_A3_Alvaro.pdb
+C:\Users\LENOVO\OneDrive\Escritorio\Unidad3_ActividadPOOU3_A3_POO_Alvaro_Sanchez\Solución\POOU3_A3_Alvaro\bin\Debug\POOU2_A3_Alvaro.exe.config
+C:\Users\LENOVO\OneDrive\Escritorio\Unidad3_ActividadPOOU3_A3_POO_Alvaro_Sanchez\Solución\POOU3_A3_Alvaro\bin\Debug\POOU2_A3_Alvaro.exe
+C:\Users\LENOVO\OneDrive\Escritorio\Unidad3_ActividadPOOU3_A3_POO_Alvaro_Sanchez\Solución\POOU3_A3_Alvaro\bin\Debug\POOU2_A3_Alvaro.pdb
+C:\Users\LENOVO\OneDrive\Escritorio\Unidad3_ActividadPOOU3_A3_POO_Alvaro_Sanchez\Solución\POOU3_A3_Alvaro\obj\Debug\POOU2_A3_Alvaro.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Escritorio\Unidad3_ActividadPOOU3_A3_POO_Alvaro_Sanchez\Solución\POOU3_A3_Alvaro\obj\Debug\POOU2_A3_Alvaro.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\OneDrive\Escritorio\Unidad3_ActividadPOOU3_A3_POO_Alvaro_Sanchez\Solución\POOU3_A3_Alvaro\obj\Debug\POOU2_A3_Alvaro.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Escritorio\Unidad3_ActividadPOOU3_A3_POO_Alvaro_Sanchez\Solución\POOU3_A3_Alvaro\obj\Debug\POOU2_A3_Alvaro.exe
+C:\Users\LENOVO\OneDrive\Escritorio\Unidad3_ActividadPOOU3_A3_POO_Alvaro_Sanchez\Solución\POOU3_A3_Alvaro\obj\Debug\POOU2_A3_Alvaro.pdb
